@@ -1,0 +1,31 @@
+.trichdan {
+  background-color: #fff8dc;
+  padding: 40px 60px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.trichdan h1 {
+  color: darkblue;
+  margin-bottom: 15px;
+}
+
+.trichdan p {
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.trichdan button {
+  padding: 10px 20px;
+  border: 1px solid gray;
+  background-color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.trichdan button:hover {
+  background-color: green;
+  color: white;
+  border-color: green;
+}
